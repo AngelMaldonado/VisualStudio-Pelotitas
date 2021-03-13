@@ -1,0 +1,20 @@
+C:\Users\erika\source\repos\pelotitas\pelotitas\obj\Debug\pelotitas.csprojAssemblyReference.cache
+C:\Users\erika\source\repos\pelotitas\pelotitas\obj\Debug\pelotitas.Form1.resources
+C:\Users\erika\source\repos\pelotitas\pelotitas\obj\Debug\pelotitas.Properties.Resources.resources
+C:\Users\erika\source\repos\pelotitas\pelotitas\obj\Debug\pelotitas.csproj.GenerateResource.cache
+C:\Users\erika\source\repos\pelotitas\pelotitas\obj\Debug\pelotitas.csproj.CoreCompileInputs.cache
+C:\Users\erika\source\repos\pelotitas\pelotitas\bin\Debug\pelotitas.exe.config
+C:\Users\erika\source\repos\pelotitas\pelotitas\bin\Debug\pelotitas.exe
+C:\Users\erika\source\repos\pelotitas\pelotitas\bin\Debug\pelotitas.pdb
+C:\Users\erika\source\repos\pelotitas\pelotitas\obj\Debug\pelotitas.exe
+C:\Users\erika\source\repos\pelotitas\pelotitas\obj\Debug\pelotitas.pdb
+C:\Users\Angel Maldonado\Downloads\para mi novio\pelotitas\pelotitas\bin\Debug\pelotitas.exe.config
+C:\Users\Angel Maldonado\Downloads\para mi novio\pelotitas\pelotitas\bin\Debug\pelotitas.exe
+C:\Users\Angel Maldonado\Downloads\para mi novio\pelotitas\pelotitas\bin\Debug\pelotitas.pdb
+C:\Users\Angel Maldonado\Downloads\para mi novio\pelotitas\pelotitas\obj\Debug\pelotitas.csprojAssemblyReference.cache
+C:\Users\Angel Maldonado\Downloads\para mi novio\pelotitas\pelotitas\obj\Debug\pelotitas.Form1.resources
+C:\Users\Angel Maldonado\Downloads\para mi novio\pelotitas\pelotitas\obj\Debug\pelotitas.Properties.Resources.resources
+C:\Users\Angel Maldonado\Downloads\para mi novio\pelotitas\pelotitas\obj\Debug\pelotitas.csproj.GenerateResource.cache
+C:\Users\Angel Maldonado\Downloads\para mi novio\pelotitas\pelotitas\obj\Debug\pelotitas.csproj.CoreCompileInputs.cache
+C:\Users\Angel Maldonado\Downloads\para mi novio\pelotitas\pelotitas\obj\Debug\pelotitas.exe
+C:\Users\Angel Maldonado\Downloads\para mi novio\pelotitas\pelotitas\obj\Debug\pelotitas.pdb
